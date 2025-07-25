@@ -1,0 +1,18 @@
+body {
+    padding-top: 56px;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ebee;
+    border-radius: .3rem;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.badge {
+    font-size: 0.9em;
+}
